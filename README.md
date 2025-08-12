@@ -1,6 +1,14 @@
-# AWS Cloud Practitioner Reference
+# AWS Cloud Practitioner Notes
 
-Organized AWS Cloud Practitioner study reference with core concepts, service summaries, pricing models, security guidelines, and architecture diagrams.
+Comprehensive study notes, diagrams, and resources covering the AWS Certified Cloud Practitioner certification.  
+Organized to provide a clear reference for AWS core concepts, services, pricing models, security, and architectural best practices.
+
+---
+
+## Certification Overview
+- **Certification**: AWS Certified Cloud Practitioner
+- **Issued**: August 2025
+- **Skills Covered**: AWS global infrastructure, core services, pricing models, security, and the AWS Well-Architected Framework.
 
 ---
 
