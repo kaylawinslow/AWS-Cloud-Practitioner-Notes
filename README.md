@@ -1,14 +1,13 @@
 # AWS Cloud Practitioner Notes
 
-A collection of study notes, diagrams, and resources from my journey to earning the **AWS Certified Cloud Practitioner** credential.  
-This repo is meant to organize key concepts and serve as a quick reference for myself and others learning AWS.
+Comprehensive study notes, diagrams, and resources covering the AWS Certified Cloud Practitioner certification.  
+Organized to provide a clear reference for AWS core concepts, services, pricing models, security, and architectural best practices.
 
 ---
 
-## 📜 Certification Details
+## 📜 Certification Overview
 - **Certification**: AWS Certified Cloud Practitioner
-- **Issued**: [Month, Year]
-- **Credential ID**: (optional)
+- **Issued**: August 2025
 - **Skills Covered**: AWS global infrastructure, core services, pricing models, security, and the AWS Well-Architected Framework.
 
 ---
@@ -19,14 +18,15 @@ This repo is meant to organize key concepts and serve as a quick reference for m
 3. [Pricing & Billing](#pricing--billing)
 4. [Security & Compliance](#security--compliance)
 5. [Well-Architected Framework](#well-architected-framework)
-6. [Resources & Links](#resources--links)
+6. [Diagrams & Visuals](#diagrams--visuals)
+7. [Resources & Links](#resources--links)
 
 ---
 
 ## Core AWS Concepts
-- **Cloud Computing Models**: IaaS, PaaS, SaaS — what they mean and examples in AWS.
+- **Cloud Computing Models**: IaaS, PaaS, SaaS — definitions and AWS examples.
 - **Deployment Models**: Public, Private, Hybrid cloud.
-- **AWS Regions & Availability Zones**: Global infrastructure and how AWS deploys services.
+- **AWS Regions & Availability Zones**: Global infrastructure organization and benefits.
 
 ---
 
@@ -35,7 +35,7 @@ This repo is meant to organize key concepts and serve as a quick reference for m
 ### Compute
 - **EC2**: Virtual servers in the cloud.
 - **Lambda**: Serverless compute.
-- **Elastic Beanstalk**: Simplified app deployment.
+- **Elastic Beanstalk**: Simplified application deployment.
 
 ### Storage
 - **S3**: Object storage.
@@ -50,14 +50,14 @@ This repo is meant to organize key concepts and serve as a quick reference for m
 ### Networking
 - **VPC**: Virtual network in AWS.
 - **CloudFront**: Content Delivery Network.
-- **Route 53**: DNS service.
+- **Route 53**: DNS and domain name management.
 
 ---
 
 ## Pricing & Billing
-- **CapEx vs OpEx**: How AWS shifts spending models.
+- **CapEx vs OpEx**: Transition from capital expenses to operational expenses.
 - **Pricing Models**: On-Demand, Reserved Instances, Spot Instances, Savings Plans.
-- **Free Tier**: Services and usage limits.
+- **Free Tier**: Services and usage limits available at no cost.
 
 ---
 
@@ -78,6 +78,19 @@ This repo is meant to organize key concepts and serve as a quick reference for m
 
 ---
 
+## Diagrams & Visuals
+Example AWS architecture diagram:
+
+![AWS Architecture Example](diagrams-visuals/aws-architecture-example.png)
+
+---
+
 ## Resources & Links
 - [AWS Training & Certification](https://aws.amazon.com/training/)
-- [AWS Well-Architected Framework](https://aws.amazon.com)
+- [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
+- [AWS Free Tier](https://aws.amazon.com/free/)
+
+---
+
+## 📝 Notes
+This repository is for educational use and summarizes AWS concepts, services, and frameworks relevant to the AWS Certified Cloud Practitioner certification.
