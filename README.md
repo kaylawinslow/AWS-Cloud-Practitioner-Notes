@@ -53,4 +53,27 @@ Main cost models:
 AWS pricing tools:
 - AWS Pricing Calculator
 - Cost Explorer
-- Budge
+- Budgets
+
+---
+
+## Well-Architected Framework
+Six pillars for building secure, high-performing, resilient, and efficient cloud infrastructure:
+1. **Operational Excellence**
+2. **Security**
+3. **Reliability**
+4. **Performance Efficiency**
+5. **Cost Optimization**
+6. **Sustainability**
+
+---
+
+## Diagrams & Visuals
+![AWS Architecture Example](diagrams-visuals/aws-architecture-example.png)
+
+---
+
+## Resources & Links
+- [AWS Documentation](https://docs.aws.amazon.com/)
+- [AWS Training & Certification](https://aws.amazon.com/training/)
+- [AWS Pricing Calculator](https://calculator.aws/)
