@@ -1,5 +1,3 @@
-# AWS-Cloud-Practitioner-Notes
-Study notes, diagrams, and summaries for AWS Cloud Practitioner
 # AWS Cloud Practitioner Notes
 
 A collection of study notes, diagrams, and resources from my journey to earning the **AWS Certified Cloud Practitioner** credential.  
@@ -21,8 +19,7 @@ This repo is meant to organize key concepts and serve as a quick reference for m
 3. [Pricing & Billing](#pricing--billing)
 4. [Security & Compliance](#security--compliance)
 5. [Well-Architected Framework](#well-architected-framework)
-6. [Diagrams & Visuals](#diagrams--visuals)
-7. [Resources & Links](#resources--links)
+6. [Resources & Links](#resources--links)
 
 ---
 
@@ -81,20 +78,6 @@ This repo is meant to organize key concepts and serve as a quick reference for m
 
 ---
 
-## Diagrams & Visuals
-*(Place `.png` or `.jpg` files of your architecture diagrams, mind maps, or service charts here)*
-
-Example:
-![AWS Architecture Example](aws-architecture-example.png)
-
----
-
 ## Resources & Links
 - [AWS Training & Certification](https://aws.amazon.com/training/)
-- [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
-- [AWS Free Tier](https://aws.amazon.com/free/)
-
----
-
-## 📝 Notes
-This repository is for educational purposes only and reflects my personal understanding of AWS services at the time of study.
+- [AWS Well-Architected Framework](https://aws.amazon.com)
